@@ -41,11 +41,7 @@ Use each output to represnt onre for differnce and the other for borrow.
 ### STEP 5:
 End the verilog program using keyword endmodule.
 
-
-
 Write the detailed procedure here 
-
-
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
@@ -81,23 +77,18 @@ endmodule
 ### RTL realization
 ![DE4E](https://user-images.githubusercontent.com/94211349/230613211-ae534a96-e201-4a10-b292-2f4ac2f4dfdf.png)
 
-
 ### Timing diagram 
 ![DE4F](https://user-images.githubusercontent.com/94211349/230613254-501aeafe-0a3c-4766-b3c3-8be7463b02a7.png)
 
 ## Full Subtractor
 ### Truthtable
-
 ![DE4H](https://user-images.githubusercontent.com/94211349/230613599-7c8e57bd-b627-45cd-b7df-ebd2c0ce8a69.png)
 
 ### RTL realization
 ![DE4I](https://user-images.githubusercontent.com/94211349/230613605-f3424ce1-3567-4b59-a992-64c0b127be67.png)
 
-
 ### Timing diagram
 ![DE4J](https://user-images.githubusercontent.com/94211349/230613622-ccc41ea1-2653-4c7d-b0a4-f6745cf6b86c.png)
-
-
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
