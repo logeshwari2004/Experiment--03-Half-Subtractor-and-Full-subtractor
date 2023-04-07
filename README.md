@@ -77,25 +77,26 @@ endmodule
 ## Output:
 ### Half Subtractor
 ### Truthtable
-![DE4A](https://user-images.githubusercontent.com/94211349/230613037-7ccac2b8-a2c8-4895-b015-89d219872189.png)
-
-### RTL realization
-![DE4B](https://user-images.githubusercontent.com/94211349/230613085-9877687e-0976-47de-8dbd-68e8c4f845c1.png)
-
-### Timing diagram 
-![DE4C](https://user-images.githubusercontent.com/94211349/230613134-5f9133c6-6c00-485f-bf26-8ee1ab21dffa.png)
-
-## Full Subtractor
-### Truthtable
 ![DE4D](https://user-images.githubusercontent.com/94211349/230613172-cd34e24b-f13f-4856-a878-d93bcdf75473.png)
 
 ### RTL realization
 ![DE4E](https://user-images.githubusercontent.com/94211349/230613211-ae534a96-e201-4a10-b292-2f4ac2f4dfdf.png)
 
 
-### Timing diagram
+### Timing diagram 
 ![DE4F](https://user-images.githubusercontent.com/94211349/230613254-501aeafe-0a3c-4766-b3c3-8be7463b02a7.png)
-![DE4A](https://user-images.githubusercontent.com/94211349/230613258-8d507fe5-b03a-47e2-adda-e38fa264bfc5.png)
+
+## Full Subtractor
+### Truthtable
+
+![DE4H](https://user-images.githubusercontent.com/94211349/230613599-7c8e57bd-b627-45cd-b7df-ebd2c0ce8a69.png)
+
+### RTL realization
+![DE4I](https://user-images.githubusercontent.com/94211349/230613605-f3424ce1-3567-4b59-a992-64c0b127be67.png)
+
+
+### Timing diagram
+![DE4J](https://user-images.githubusercontent.com/94211349/230613622-ccc41ea1-2653-4c7d-b0a4-f6745cf6b86c.png)
 
 
 
